@@ -1,0 +1,24 @@
+/* Cores */
+
+:root{
+    --main-green: #117050;
+}
+
+/* Configuraões padrões */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 0px;
+    width: auto;
+}
+
+/* HEADER */
+
+header.line{
+    background-color: var(--main-green);
+    height: 15px;
+}
